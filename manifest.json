@@ -1,0 +1,7 @@
+{
+  "name": "figma-template",
+  "id": "{REPLACE_ME}",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
